@@ -1,5 +1,7 @@
 # CopyFair Corp
 
+[![Join the chat at https://gitter.im/CopyFairCorp/copyfair](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CopyFairCorp/copyfair?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Towards sustainable Open Source development.
 
 Please read the Introduction, and join [my gitter channel](https://gitter.im/dpc/dpc) to discuss.
